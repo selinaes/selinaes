@@ -1,9 +1,10 @@
 ### Hi there 👋 This is Selina Liu
 
 
-### 👨🏻‍💻 &nbsp;About Me
+### About Me
 
 - 🎓 I'm currently pursuing my Master's in Computer Science (**MSCS**) at **Duke University**
+- 👩‍💻 I'm an incoming SWE intern @PlayStation
 - 👯 I have a passion for Ballroom dancing, and my favorite dances include Foxtrot, Tango, and Rumba
 - 🎯 My goal is to leverage my technical knowledge and problem-solving skills to create innovative and impactful solutions
 - 🌟 I value collaboration, teamwork, and continuous improvement in both my personal and professional life
