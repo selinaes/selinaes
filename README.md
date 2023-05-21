@@ -47,7 +47,7 @@
 
 ----------------------------
 ### :fire: &nbsp; My Stats :
-[![My Programming Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=selinaes&layout=compact&langs_count=10&theme=algolia&custom_title=My%20Programming%20Languages&count_private=true&exclude_repo=TimeInv,Neighborhood&hide=css)](https://github.com/selinaes/github-readme-stats)
+[![My Programming Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=selinaes&layout=compact&langs_count=10&theme=algolia&custom_title=My%20Programming%20Languages&count_private=true&exclude_repo=TimeInv,Neighborhood&hide=css&size_weight=0.5&count_weight=0.5)](https://github.com/selinaes/github-readme-stats)
 
 
 
